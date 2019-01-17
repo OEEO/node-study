@@ -1,0 +1,21 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "lean node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node build/dev.js",
+    "build": "node build/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OEEO/node-study.git"
+  },
+  "author": "dean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OEEO/node-study/issues"
+  },
+  "homepage": "https://github.com/OEEO/node-study#readme"
+}
